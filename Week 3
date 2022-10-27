@@ -1,0 +1,316 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>replit</title>
+  <link href="style.css" rel="stylesheet" type="text/css" />
+
+</head>
+
+<body>
+  <header class="header">
+
+
+    <div class="left-section">
+      <img class="Homoja-logo" src="Homoja.svg" alt="">
+    </div>
+
+    <div class="middle-section">
+
+
+      <div class="stories-button">
+        <div class="nav-button">
+          About Me
+        </div>
+
+      </div>
+
+      <div class="stories-button">
+        <div class="nav-button">
+          Services
+        </div>
+
+
+      </div>
+
+      <div class="stories-button">
+
+        <div class="nav-button">
+          Projects
+        </div>
+
+      </div>
+
+
+
+      <div class="stories-button">
+        <div class="nav-button">
+          <p class=nav-button>  <a href="home.html"> Contact Me
+            </a> </p>
+        </div>
+
+      </div>
+
+
+    </div>
+
+    <div class="right-section">
+      <button class="create-account"> Book Now</button>
+    </div>
+
+  </header>
+
+
+  <main style="margin-top: 150px;">
+    <section class="section-one">
+
+      <div>
+        <article style="margin-top: 50px;">
+          <h1 class="Intro">
+            <strong style="font-size:100px;">"</strong> Good <strong class="yellow">designs</strong> Gives you that
+            <strong class="yellow">smile</strong>
+          </h1>
+          <p class="para-one">
+            Hi!, My Name is <strong style="font-size:30px; color: yellow;">Joshua Solomon</strong> and I create amazing
+            frontend designs for both mobile screens and desktop screens
+          </p>
+
+        </article>
+      </div>
+
+      <div style="margin-top: 50px ;">
+        <img style="width:200px; margin-right:150px;" src="invest.png" alt="">
+      </div>
+
+    </section>
+
+
+
+    <section class="section-two">
+      <h1 style="text-align: start; color: blue; margin: 40px;"> About Me</h1>
+      <article class="article-two">
+
+        <P class="para-two">
+          <strong style="font-size: 40px; color: blue;">"</strong>
+          I stay in Abuja, Nigeria and i work with Flutterwave as a remote intern.
+          For sometime now i have been a sucker for great designs. Not only on aesthetics per say ,
+          but also the ease of usability for anyone trying to navigate through your site <br>
+
+        </P>
+
+        <p class="para-two">
+          With over two years of experience, i can help you with my well developed <br>
+          programming skills to achieve your business goals on your website.
+          With a good hand on Java, Vue js, and python,
+          i can do all what you have imagined for your next project. <br>
+        </p>
+
+        <P class="para-two">
+          <strong style="font-size: 28px; color: blue; margin: 10px;">Hobbies:</strong>
+          Watching documentries, Playing games and reading
+        </P>
+        <P class="para-two">
+          <strong style="font-size: 28px; color: blue; margin: 10px;">Skills:</strong>
+          Web development, Mobile app developer and UX designer
+        </P>
+        <P class="para-two">
+          <strong style="font-size: 28px; color: blue; margin: 10px;">Core Values:</strong>
+          Simple, Modern and User Friendly
+        </P>
+
+      </article>
+    </section>
+
+
+
+
+
+    <section>
+      <h1 style="text-align: start; color: blue; margin: 40px;"> Services</h1>
+      <section class="Skills-section">
+
+        <div class="skills-container ">
+          <div class="div-vue">
+            <div>
+              <img class="skills-logo" src="Piggyvest/vue.js.svg" alt="">
+            </div>
+            <div>
+              <p class="skill-name"> Vue Js</p>
+              <p class="skill-complete">12k projects completed</p>
+              <p class="skill-rate">
+                I have a good working experience with Vue Js for over six years now
+              </p>
+            </div>
+          </div>
+
+          <div class="div-vue">
+            <div>
+              <img class="skills-logo" src="Piggyvest/nodejs.svg" alt="">
+            </div>
+            <div>
+              <p class="skill-name"> Node Js (Backend Dev)</p>
+              <p class="skill-complete">12k projects completed</p>
+              <p class="skill-rate">
+                I have a good working experience with Vue Js for over six years now
+              </p>
+            </div>
+          </div>
+
+          <div class="div-vue">
+            <div>
+              <img class="skills-logo" src="Piggyvest/python logo.svg" alt="">
+            </div>
+            <div>
+              <p class="skill-name"> Python (Backend dev)</p>
+              <p class="skill-complete">12k projects completed</p>
+              <p class="skill-rate">
+                I have a good working experience with Vue Js for over six years now
+              </p>
+            </div>
+          </div>
+
+          <div class="div-vue">
+            <div>
+              <img class=" skills-logo" src="Piggyvest/react.svg" alt="">
+            </div>
+            <div>
+              <p class="skill-name"> React Framework</p>
+              <p class="skill-complete">12k projects completed</p>
+              <p class="skill-rate">
+                I have a good working experience with Vue Js for over six years now
+              </p>
+            </div>
+          </div>
+
+
+        </div>
+      </section>
+
+
+
+
+      <section>
+        <h1 style="text-align: start; color: blue; margin: 40px; font-size: 24px;"> Projects</h1>
+
+        <section class="section-three">
+
+          <section class="whatwedo-section">
+
+            <div class="skills">
+              <div style="margin-top: 40px;">
+                <img style=" margin:20px; width: 400px; border-radius: 0px; align-content: center; "
+                  src="Screenshot (171).png" alt="">
+                <h4 style=" margin:20px;"> Christiano Ronaldo Tribute</h4>
+                <p style="margin:20px">Zuri Task</p>
+
+
+              </div>
+
+            </div>
+          </section>
+
+
+
+          <section class="whatwedo-section">
+
+            <div class="skills">
+
+              <div style="margin-top: 40px;">
+                <img style=" margin:20px; width: 200px; border-radius: 0px; " src="Desktop - 1 (1).png" alt="">
+                <h4 style=" margin:20px;">Piggyvest Frontend landing page clone</h4>
+                <p style="margin:20px">Personal Project</p>
+
+              </div>
+            </div>
+          </section>
+
+
+
+          <section class="whatwedo-section">
+            <div class="skills">
+              <div style="margin-top: 40px;">
+                <img style=" margin:20px; width: 400px; border-radius: 0px; " src="app.png" alt="">
+                <h4 style=" margin:20px;">Winamp Webapp Frontend redesign</h4>
+                <p style="margin:20px">Personal Project</p>
+
+
+              </div>
+            </div>
+          </section>
+
+          <section class="whatwedo-section">
+            <div class="skills">
+              <div style="margin-top: 40px;">
+                <img style=" margin:20px; width: 400px; border-radius: 0px; " src="Desktop - (1).png" alt="">
+                <h4 style=" margin:20px;">Crow bar First version site (backend/frontend)</h4>
+                <p style="margin:20px">Personal Project</p>
+
+
+              </div>
+            </div>
+          </section>
+
+
+          <section class="whatwedo-section">
+            <div class="skills">
+              <div style="margin-top: 40px;">
+                <img style=" margin:20px; width: 400px; border-radius: 0px; " src="Screenshot (170).png" alt="">
+                <h4 style=" margin:20px;">Basic HTML/CSS registration page</h4>
+                <p style="margin:20px">Zuri Task</p>
+
+
+              </div>
+            </div>
+          </section>
+
+
+          <section class="whatwedo-section">
+            <div class="skills">
+              <div style="margin-top: 40px;">
+                <img style=" margin:20px; width: 200px; border-radius: 0px; " src="Desktop - 8 (2).png" alt="">
+                <h4 style=" margin:20px;">Crowbar landing page design </h4>
+                <p style="margin:20px">Personal Project</p>
+
+
+              </div>
+            </div>
+          </section>
+
+        </section>
+
+      </section>
+    </section>
+
+
+
+
+    <section style="display: flex; align-items: center; margin-top: 100px;">
+      <div>
+        <img style="width:200px; margin: 20px; " src="facebook image.jpg" alt="">
+      </div>
+      <div>
+        <p>Solomon</p>
+        <p>joshua2906@gmail.com</p>
+        <img style="width:24px ;" src="Piggyvest/entypo-social_facebook.svg" alt="">
+
+        <img style="width:24px ;" src="Piggyvest/ant-design_twitter-square-filled.svg" alt="">
+
+        <img style="width:24px ;" src="Piggyvest/fa6-brands_square-instagram.png" alt="">
+      </div>
+    </section>
+
+  </main>
+
+
+
+  <footer>
+    <p>Author: Joshua Solomon Adams<br>
+      <a href="mailto:hege@example.com">joshuaadams2906@example.com</a>
+    </p>
+    <p>P21 Abuja cresent, Naija</p>
+  </footer>
+</body>
+
+</html>
